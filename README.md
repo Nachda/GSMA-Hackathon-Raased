@@ -1,3 +1,7 @@
+> Ce repo est une copie personnelle du projet Raased, développé en équipe 
+> (Novatech) lors du GSMA MENA Ignite Hackathon. 
+> Repo original : https://github.com/ElmessaoudiFatima/Raased
+
 # Raased (راصد) — AI Agent for Logistics Corridor Resilience
 
 > **Raased** means *"observer"* or *"watcher"* in Arabic. It is an autonomous AI agent that turns
